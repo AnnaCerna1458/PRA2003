@@ -63,7 +63,7 @@ The bacteria are divided into five momentum bins:
 - 0.654–1.32 GeV/c
 - 1.32–2.68 GeV/c
 - 2.68–5.88 GeV/c
-- 5.88 GeV/c
+- > 5.88 GeV/c
 
 For each data set and each momentum bin, the mean WT count per event and mean mutant count per event are calculated and subtracted. This gives 10 WT–mutant differences for every strain pair and momentum bin. The mean of these 10 differences is plotted, with the standard deviation used as the statistical uncertainty.
 
@@ -75,7 +75,7 @@ Because the momentum bins have unequal widths and the highest bin is open-ended,
 The analysis is performed in Python and R.
 In python the following libraries are used:
 - numpy
-- matplotlip
+- matplotlib
 - pandas 
 
 They can be installed using: pip install pandas numpy matplotlib
