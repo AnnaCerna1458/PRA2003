@@ -130,7 +130,7 @@ The strongest overall asymmetry was observed for P. aeruginosa (10.06σ), follow
 
 Only one individual momentum bin exceeded the 3σ threshold: the 1.32–2.68 GeV/c bin for P. aeruginosa.
 
-However, just because the result was  >3σ result in an individual bin does not contradict a significant overall asymmetry. Splitting the data into five momentum bins reduces the amount of data contributing to each estimate, which increases the relative statistical uncertainty.
+However, just because the result was <3σ result in an individual bin does not contradict a significant overall asymmetry. Splitting the data into five momentum bins reduces the amount of data contributing to each estimate, which increases the relative statistical uncertainty.
 
 ### Trend across momentum bins
 | Strain pair | Mean trend across bins | Trend uncertainty | Trend significance | Interpretation |
