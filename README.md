@@ -82,9 +82,9 @@ They can be installed using: pip install pandas numpy matplotlib
 
 Three scripts are used for the analysis: 
 
-1. neconeco.R is run separately on each of the 10 raw data files. It calculates the overall bacterial counts and the WT–mutant differences in each of the five momentum bins.
+1. PRA2003_sets_analysis.R is run separately on each of the 10 raw data files. It calculates the overall bacterial counts and the WT–mutant differences in each of the five momentum bins.
 
-2. neconeco.R combines the 10 overall result files (it will ask for the user to input them) It calculates the final average count and uncertainty for each strain, and the overall WT–mutant asymmetry using the difference-first subsampling method.
+2. Combining_subsamples.R combines the 10 overall result files (it will ask for the user to input them) It calculates the final average count and uncertainty for each strain, and the overall WT–mutant asymmetry using the difference-first subsampling method.
 
 3. Project_visualisation.py combines the 10 momentum result files (the user should have them in the working directory). In each momentum bin, it calculates the mean WT–mutant difference and uncertainty. Then it tests the trend across momentum bins, and creates the final figures.
 
